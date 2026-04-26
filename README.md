@@ -32,14 +32,6 @@
 
 ## 🚀 Academic Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🥭 Mango Leaf Variety Classifier](https://github.com/mahfuzur-rahman99/Mango-Leaf-Variety-Classifier) | Deep learning hybrid ensemble model to classify 8 mango leaf varieties — research-based | Python, DL, Flask |
-| [🏥 Multi-Disease Prediction](https://github.com/mahfuzur-rahman99/Multi-Disease-Prediction-Using-Machine-Learning-with-Real-Time-Deployment-on-Mobile-and-Web-Platform) | ML-based disease prediction with real-time mobile & web deployment | Python, ML |
-| [🛒 E-Commerce App (Flutter)](https://github.com/mahfuzur-rahman99/E-Commerce-System_flutter) | Mobile e-commerce application built with Flutter | Dart, Flutter |
-| [📚 Library Management System](https://github.com/mahfuzur-rahman99/Library-Management-System-Project) | OS-based library management system | Shell |
-| [🗄️ E-Commerce Management System](https://github.com/mahfuzur-rahman99/E-Commerce-Management-System) | Database-driven e-commerce management system | TypeScript |
-| [🚗 Car Rental System](https://github.com/mahfuzur-rahman99/Car-Rental-System) | OOP-based car rental system | Python |
 
 
 ---
