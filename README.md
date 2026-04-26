@@ -40,8 +40,7 @@
 | [📚 Library Management System](https://github.com/mahfuzur-rahman99/Library-Management-System-Project) | OS-based library management system | Shell |
 | [🗄️ E-Commerce Management System](https://github.com/mahfuzur-rahman99/E-Commerce-Management-System) | Database-driven e-commerce management system | TypeScript |
 | [🚗 Car Rental System](https://github.com/mahfuzur-rahman99/Car-Rental-System) | OOP-based car rental system | Python |
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdur-rakib24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raifahmeed24@gmail.com) 
+
 
 ---
 
