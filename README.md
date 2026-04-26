@@ -1,7 +1,14 @@
-Hi there, I'm Md. Abdur Rakib👋
+<h1 align="center"> Hi there, I'm Md. Abdur Rakib👋 </h1>
 
-<!--
-**AbdurRakib24/AbdurRakib24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>CSE Graduate | Cybersecurity Enthusiast | SOC Analyst (Beginner) | </em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdurRakib24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
 
 Here are some ideas to get you started:
 
