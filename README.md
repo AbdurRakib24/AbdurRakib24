@@ -13,7 +13,7 @@
 
 - 🎓 **CSE Graduate** from **Daffodil International University, Dhaka, Bangladesh**.
 - 🔬 Passionate about **Cybersecurity**, **Network Security**, and **Threat Detection**.
-- 📊 Interested in solving real-world problems through **Cybersecurity**
+- 📊 Interested in solving real-world problems through **Cybersecurity**.
 - 📝 Actively publishing and exploring research in AI/ML domains.
 - 📄 Research profiles: [ResearchGate](https://www.researchgate.net/profile/Md-Rakib-40).
 - 💬 Ask me about **Python, Network Security, Threat Detection, or Data Analysis**.
