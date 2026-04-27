@@ -133,5 +133,5 @@
 ---
 
 <p align="center">
-  <em>"In God we trust; all others must bring data." – W. Edwards Deming</em>
+  <em>> "In cybersecurity, curiosity is your greatest weapon." </em>
 </p>
