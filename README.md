@@ -40,6 +40,36 @@
 ## 🛠️ Tools & Technologies
 
 ### 🎯 Primary — Data Science & ML/DL
+
+## 🔐 Cybersecurity Tools
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-6C757D?style=for-the-badge&logo=ghost&logoColor=white)
+
+## 🧠 Security Knowledge
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Web Security](https://img.shields.io/badge/Web%20Security-FF5733?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-6A1B9A?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-00897B?style=for-the-badge&logo=google&logoColor=white)
+
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 🎯 Platforms
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![CTF](https://img.shields.io/badge/CTF-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+
+## 🐧 OS & Environment
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 🎯 Primary — Data Science & ML/DL
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
